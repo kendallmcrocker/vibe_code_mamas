@@ -1,4 +1,4 @@
-# Hello, Git!
+# Hello, Team!
 
 This is my first commit in the **vibe_code_mamas** project.
 
